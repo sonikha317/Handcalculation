@@ -1,5 +1,4 @@
-# Handcalculation
-bending stress calculation of simply supported I-beam
+# 1) Bending stress calculation of simply supported I-beam
 # Problem Statement
 Simply supported beam, L = 2.0 m, P = 10 kN at center. I-section: h=100 mm, b=50 mm, t_web=t_flange=5 mm.
 (i)   Draw Free body Diagram (Freikörperdiagramm)
