@@ -8,6 +8,8 @@ Simply supported beam, L = 2.0 m, P = 10 kN at center. I-section: h=100 mm, b=50
 (iv)  Calculate Moment of Inertia I about neutral axis
 (v)   Find Maximum Bending Stress (Biegespannung) σ_max
 (vi)  Verify σ_max with Roarks 
+# Solution
+
 
 
 
